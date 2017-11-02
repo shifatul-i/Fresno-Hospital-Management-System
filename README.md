@@ -1,0 +1,3 @@
+# Fresno Hospital Management System
+
+This database is built to work with any hospital system. Currently we will work with a Fresno hospital as a part of initial implementation. Please remember, that this is not a final database system, it has the potential to grow into a vast database system. Thus, more and more features can easily be added to it, and it is not limited to its current capabilities. This database will currently take care of the basic requirement of a general hospital system. I will be able to keep records of wards, doctors, nurses, patients, diagnosis that patient receives, payment made by patients, appointments by patients and many others.
