@@ -1,0 +1,6 @@
+CREATE TABLE Research_Lab(
+	Research_ID VARCHAR(8) NOT NULL PRIMARY KEY,
+	Doctor_ID VARCHAR(8) NOT NULL,
+	Research_Type VARCHAR(20) NOT NULL,
+	FOREIGN KEY (Doctor_ID) REFERENCES Doctor(Doctor_ID)
+);

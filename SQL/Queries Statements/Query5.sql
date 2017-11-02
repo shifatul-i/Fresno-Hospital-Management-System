@@ -1,0 +1,2 @@
+INSERT INTO Appointment VALUES 
+('A011','P004','D002','2017-01-20 15:30:00');
